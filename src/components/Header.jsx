@@ -1,0 +1,1 @@
+import React from "react"; function Header() { return (<header className="text-center py-6 border-b border-white/20"><h1 className="text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-yellow-400">Futuristic AI Hub</h1><p className="mt-2 text-white/70">Chat & Create AI Images in Style</p></header>); } export default Header;

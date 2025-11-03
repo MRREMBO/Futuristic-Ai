@@ -1,0 +1,1 @@
+import React from "react"; function Footer() { return (<footer className="text-center py-6 border-t border-white/20 text-white/70">&copy; 2025 Futuristic AI Hub. All rights reserved.</footer>); } export default Footer;
